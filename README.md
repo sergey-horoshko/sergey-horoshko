@@ -9,7 +9,7 @@ About me
   - ~PHP, ~Twig
   - Git, Vanilla JS, ~TypeScript, jQuery, Webpack, Gulp
   - Linux, Docker
-  - HTML5, CSS3, SCSS, ~Bootstrap, ~Tailwind
+  - HTML5, CSS3, SCSS, Bootstrap, Tailwind
 
 * ~ These technologies in beginner level 
 
