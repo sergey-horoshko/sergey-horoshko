@@ -13,7 +13,7 @@ About me
 
 * ~ These technologies in beginner level 
 
-Visit it: [Portfolio](https://sergey-horoshko.github.io/my-portfolio/) <br>
+Visit it: [Portfolio](https://sergey-horoshko.github.io/portfolio/) <br>
 Contact me: [telegram](https://t.me/cult1zm) or [email](mailto:sergeyhtml@gmail.com)
 
 <!--
