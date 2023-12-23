@@ -5,11 +5,14 @@
 About me
 - Work experience 2.5+ years
 - Technologies: 
-  - Vue (2-3), Vue Router, Vuex, Pinia, ~Nuxt
-  - ~PHP, ~Twig
-  - Git, Vanilla JS, ~TypeScript, jQuery, Webpack, Gulp
-  - Linux, Docker
-  - HTML5, CSS3, SCSS, Bootstrap, Tailwind
+  -  HTML 5, CSS 3.
+  -  JavaScript, jQuery, ES5, ES6.
+  -  TypeScript in beginning learning.
+  -  Vue (2-3), Vuex, Vue Router, Pinia, Options api, Compositions Api and more plugins.
+  -  Rest Api, Axios, work with interceptors and notify others messages.
+  -  Work with others plugins. Webpack, Gulp, Vite, Eslint, Prettier, Husky.
+  -  Bootstrap, Tailwind and others CSS frameworks.
+  -  Working with WSL 2 and WebStorm.
 
 * ~ These technologies in beginner level 
 
