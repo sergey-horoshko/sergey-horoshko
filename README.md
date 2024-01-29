@@ -6,8 +6,7 @@ About me
 - Work experience 3.5+ years
 - Technologies: 
   -  HTML 5, CSS 3.
-  -  JavaScript, jQuery, ES5, ES6.
-  -  TypeScript in beginning learning.
+  -  TypeScript, JavaScript, jQuery, ES5, ES6.
   -  Vue (2-3), Vuex, Vue Router, Pinia, Options api, Compositions Api and more plugins.
   -  Rest Api, Axios, work with interceptors and notify others messages.
   -  Work with others plugins. Webpack, Gulp, Vite, Eslint, Prettier, Husky.
