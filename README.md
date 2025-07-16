@@ -3,7 +3,7 @@
 
 
 About me
-- Work experience 3.5+ years
+- Work experience 6+ years
 - Technologies: 
   -  HTML 5, CSS 3.
   -  TypeScript, JavaScript, jQuery, ES5, ES6.
